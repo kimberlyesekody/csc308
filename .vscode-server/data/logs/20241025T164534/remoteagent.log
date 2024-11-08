@@ -1,0 +1,21 @@
+2024-10-25 16:45:34.718 [info] 
+
+
+
+
+2024-10-25 16:45:34.725 [info] Extension host agent started.
+2024-10-25 16:45:34.761 [info] Started initializing default profile extensions in extensions installation folder. file:///home/kimberly/.vscode-server/extensions
+2024-10-25 16:45:34.773 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/kimberly/.vscode-server/extensions
+2024-10-25 16:45:35.070 [info] [127.0.0.1][9274b0ca][ManagementConnection] New connection established.
+2024-10-25 16:45:35.266 [info] [127.0.0.1][fa41500a][ExtensionHostConnection] New connection established.
+2024-10-25 16:45:35.273 [info] [127.0.0.1][fa41500a][ExtensionHostConnection] <913> Launched Extension Host Process.
+2024-10-25 17:23:35.903 [info] [127.0.0.1][9274b0ca][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-25 17:23:35.993 [info] [127.0.0.1][fa41500a][ExtensionHostConnection] <913> Extension Host Process exited with code: 0, signal: null.
+2024-10-25 17:23:37.775 [info] [127.0.0.1][96db83a3][ManagementConnection] New connection established.
+2024-10-25 17:23:37.967 [info] [127.0.0.1][c164983d][ExtensionHostConnection] New connection established.
+2024-10-25 17:23:37.970 [info] [127.0.0.1][c164983d][ExtensionHostConnection] <7943> Launched Extension Host Process.
+2024-10-25 17:42:24.869 [info] [127.0.0.1][96db83a3][ManagementConnection] The client has reconnected.
+2024-10-25 17:42:25.065 [info] [127.0.0.1][c164983d][ExtensionHostConnection] The client has reconnected.
+2024-10-25 17:44:54.050 [error] [network] #4: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET getaddrinfo EAI_AGAIN az764295.vo.msecnd.net
+2024-10-25 18:00:08.168 [info] [127.0.0.1][96db83a3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-25 18:00:08.330 [info] [127.0.0.1][c164983d][ExtensionHostConnection] <7943> Extension Host Process exited with code: 0, signal: null.

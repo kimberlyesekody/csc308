@@ -1,0 +1,16 @@
+2024-11-01 16:34:15.868 [info] 
+
+
+
+
+2024-11-01 16:34:15.880 [info] Extension host agent started.
+2024-11-01 16:34:15.942 [info] [127.0.0.1][3f2f29a2][ManagementConnection] New connection established.
+2024-11-01 16:34:16.282 [info] [127.0.0.1][d4c2d34b][ExtensionHostConnection] New connection established.
+2024-11-01 16:34:16.286 [info] [127.0.0.1][d4c2d34b][ExtensionHostConnection] <490> Launched Extension Host Process.
+2024-11-01 16:34:17.063 [error] [network] #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET self-signed certificate in certificate chain
+2024-11-01 16:34:18.563 [error] [network] #2: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST self-signed certificate in certificate chain
+2024-11-01 16:34:21.723 [error] [network] #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST self-signed certificate in certificate chain
+2024-11-01 16:50:16.187 [info] [127.0.0.1][d4c2d34b][ExtensionHostConnection] The client has reconnected.
+2024-11-01 16:50:16.266 [info] [127.0.0.1][3f2f29a2][ManagementConnection] The client has reconnected.
+2024-11-01 17:45:07.035 [info] [127.0.0.1][3f2f29a2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-01 17:45:07.123 [info] [127.0.0.1][d4c2d34b][ExtensionHostConnection] <490> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2024-04-12T00:24:01.474955778Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/kimbe/.docker/contexts
+[2024-04-12T00:24:01.481157693Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/kimbe/.docker/contexts os.Symlink <HOME>/.docker/contexts -> /mnt/c/Users/kimbe/.docker/contexts
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2024-04-12T00:24:02.224229860Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/kimbe/.aws, linkPath = <HOME>/.aws
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2024-04-12T00:24:03.035775711Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/kimbe/.azure, linkPath = <HOME>/.azure
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2024-04-12T00:24:03.806908027Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/kimbe/.docker/features.json, linkPath = ~/.docker/features.json
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2024-10-25T15:37:47.063223192Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/kimbe/.docker/contexts
+[2024-10-25T15:37:47.070100359Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/kimbe/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2024-10-25T15:37:47.403510880Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/kimbe/.aws, linkPath = <HOME>/.aws
+[2024-10-25T15:37:47.408242734Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/kimbe/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2024-10-25T15:37:47.766243557Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/kimbe/.azure, linkPath = <HOME>/.azure
+[2024-10-25T15:37:47.769955794Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/kimbe/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2024-10-25T15:37:48.125011899Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/kimbe/.docker/features.json, linkPath = ~/.docker/features.json

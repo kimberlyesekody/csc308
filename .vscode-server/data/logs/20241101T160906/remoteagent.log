@@ -1,0 +1,12 @@
+2024-11-01 16:09:06.329 [info] 
+
+
+
+
+2024-11-01 16:09:06.341 [info] Extension host agent started.
+2024-11-01 16:09:06.606 [info] [127.0.0.1][c9b14be4][ManagementConnection] New connection established.
+2024-11-01 16:09:06.899 [info] [127.0.0.1][7c202ae7][ExtensionHostConnection] New connection established.
+2024-11-01 16:09:06.909 [info] [127.0.0.1][7c202ae7][ExtensionHostConnection] <557> Launched Extension Host Process.
+2024-11-01 16:09:26.869 [error] [network] #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET getaddrinfo EAI_AGAIN az764295.vo.msecnd.net
+2024-11-01 16:09:28.439 [error] [network] #2: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+2024-11-01 16:09:50.917 [error] [network] #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com

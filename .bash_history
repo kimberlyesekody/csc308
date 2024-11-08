@@ -65,3 +65,10 @@ gcc thirdClass.c -o thirdclass
 ./thirdclass
 gcc thirdClass.c -o thirdclass
 ./thirdclass
+gcc exercise1.c -o exercise1
+cd CSC308
+gcc exercise1.c -o exercise1
+gcc exercise_1.c -o exercise_1
+./exercise_1
+gcc Project_TA.c -o Project_TA
+./Project_TA
